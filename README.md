@@ -4,7 +4,7 @@ Welcome! This is my collection of beginner-friendly reflections and summaries of
 ## 🗂️ Articles
 
 1. [Constitutional AI - Anthropic](./Constitutional_AI.md/)
-2. [Kant_on_Machine_Morality](./Kant_on_Machine_Morality.md/)
+2. [Kant on Machine Morality](./Kant%20on%20Machine%20Morality.md)
 3. [Deceptive Alignment](./deceptive-alignment/)
 
 ...
