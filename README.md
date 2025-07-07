@@ -1,4 +1,4 @@
-# ai-alignment-ethics-reviews
+# AI-Alignment-Ethics-Reviews
 Welcome! This is my collection of beginner-friendly reflections and summaries of research papers in AI alignment, safety, and ethics. I try to explain complex topics clearly and reflect on what we can learn from each piece.
 
 ## 🗂️ Articles
