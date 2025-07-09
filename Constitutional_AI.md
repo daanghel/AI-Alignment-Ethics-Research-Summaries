@@ -1,8 +1,5 @@
 
-# Constitutional AI - Teaching AI to Be Kind
-*What I Learned from Anthropic’s Constitutional AI Paper*
-
-## Why I Got Interested in This
+# Teaching AI to Reflect: What I Learned from Anthropic’s Constitutional AI
 
 If you've ever used ChatGPT, Claude, or any AI assistant, you’ve probably noticed that they try to be polite, avoid harmful content, and sometimes say things like “I can’t help with that.” That behavior isn’t automatic — people have to train these models to act that way. Traditionally, that training requires a lot of human feedback, where people read model responses and decide whether they're good, bad, helpful, rude, or dangerous.
 
