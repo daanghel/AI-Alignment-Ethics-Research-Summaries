@@ -1,5 +1,5 @@
 
-# Teaching AI to Be Kind (Without Needing So Much Human Help)
+# Constitutional AI - Teaching AI to Be Kind
 *What I Learned from Anthropic’s Constitutional AI Paper*
 
 ## Why I Got Interested in This
